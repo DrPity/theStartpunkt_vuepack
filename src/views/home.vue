@@ -6,8 +6,8 @@
   import main from '../components/main'
 
   export default {
+    name: "application root",
     ready: function(){
-      console.log("Hallo");
     },
     components: {
       main

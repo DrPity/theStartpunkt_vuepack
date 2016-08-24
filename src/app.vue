@@ -1,4 +1,4 @@
-<style src="./css/shared.css"></style>
+<style src="./css/main.css"></style>
 
 <template>
   <div class="app">

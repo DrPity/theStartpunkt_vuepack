@@ -12,7 +12,7 @@
   <body>
     <div id="app"></div>
     {{#each htmlWebpackPlugin.files.js}}
-      <script src="{{ this }}"></script>
+      <script async src="{{ this }}"></script>
     {{/each}}
   </body>
 </html>
